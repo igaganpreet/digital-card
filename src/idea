@@ -1,0 +1,26 @@
+<div App>
+    <div img>
+    </div>
+    <div info>
+        <div desc>
+            name
+            title
+            webste
+        </div> 
+        <div buttons>
+            <btn1>
+                btn2
+        </divbuttons>
+      
+        <div about>
+        </div>
+        <div Tecnology>
+        </div>
+    </div>
+    <footer>
+        logo1
+        logo2
+        logo3
+        logo4
+    </footer>
+</div>
